@@ -84,9 +84,17 @@ if __name__ == '__main__':
 ### 📫 How to reach me  
 - 📧 **Email:**  
   - zokhidjonyuta@gmail.com 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/zoxidjon-qodirov-5025a8319/](#) 
+- 💼 **LinkedIn:** [
+   -<a href="https://www.linkedin.com/in/zoxidjon-qodirov-5025a8319">/LinkedIn</a>](#) 
 
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
-<img src="https://raw.githubusercontent.com/zetmax1/zetmax1/output/snake.svg" alt="Snake animation">
+#### Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetmax1/zetmax1/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zetmax1/zetmax1/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zetmax1/zetmax1/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
