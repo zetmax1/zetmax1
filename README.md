@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zokhidjon</h1>
-<h3 align="center">💻 Backend Developer | 🚀 Python Enthusiast | ⚡ Competitive Programmer</h3>
+<h3 align="center">💻 Software Engineer | 🚀 Python Enthusiast | ⚡ Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://github.com/zetmax1">
@@ -18,17 +18,42 @@
 - ⚡ Fun fact: I enjoy debugging more than coding sometimes  
 
 ---
-
+```python
+      class ZetmaxProfile:
+          def __init__(self):
+              self.name = "Zokhidjon"
+              self.username = "zetmax1"
+              self.location = "Earth" 
+              self.info = "Full-stack dev passionate about AI and optimization"
+              self.skills = ["Python", "JavaScript", "Go", "Machine Learning"]
+      
+          def greet_in_languages(self):
+              greetings = {
+                  "Uzbek": "Assalomu alaykum!"
+                  "English": "Hello, World!",
+                  "Russian": "Привет, Mир!",
+              }
+              return greetings
+      
+          def __str__(self):
+              return f"{self.name} (@{self.username}) - {self.info}"
+      
+      if __name__ == '__main__':
+          me = ZetmaxProfile()
+          print(me)
+          print("Greetings:", me.greet_in_languages())
+```
+---
 ### 🛠️ Tech Stack  
 
 #### 🚀 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,cpp,go,postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,cpp,go,postgresql,mysql,sqlite" />
 </p>
 
 #### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,pycharm,vscode,postman" />
 </p>
 
 ---
@@ -57,6 +82,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zetmax1&theme=algolia&no-frame=true&margin-w=15" />
 </p>
@@ -65,10 +91,10 @@
 
 ### 📫 How to reach me  
 - 📧 **Email:**  
-  - zetmax1.dev@gmail.com *(example, replace with your real one)*  
-- 💼 **LinkedIn:** [linkedin.com/in/zetmax1](#) *(replace with your real link)*  
-- 🌐 **Portfolio:** [zetmax1.github.io](#) *(optional if you make one)*  
+  - zokhidjonyuta@gmail.com 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/zoxidjon-qodirov-5025a8319/](#) 
 
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
+![Snake animation](https://github.com/zetmax1/zetmax1/blob/output/github-contribution-grid-snake.svg)
