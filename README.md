@@ -19,29 +19,29 @@
 
 ---
 ```python
-      class ZetmaxProfile:
-          def __init__(self):
-              self.name = "Zokhidjon"
-              self.username = "zetmax1"
-              self.location = "Earth" 
-              self.info = "Full-stack dev passionate about AI and optimization"
-              self.skills = ["Python", "JavaScript", "Go", "Machine Learning"]
-      
-          def greet_in_languages(self):
-              greetings = {
-                  "Uzbek": "Assalomu alaykum!"
-                  "English": "Hello, World!",
-                  "Russian": "Привет, Mир!",
-              }
-              return greetings
-      
-          def __str__(self):
-              return f"{self.name} (@{self.username}) - {self.info}"
-      
-      if __name__ == '__main__':
-          me = ZetmaxProfile()
-          print(me)
-          print("Greetings:", me.greet_in_languages())
+class ZetmaxProfile:
+    def __init__(self):
+        self.name = "Zokhidjon"
+        self.username = "zetmax1"
+        self.location = "Earth" 
+        self.info = "Full-stack dev passionate about AI and optimization"
+        self.skills = ["Python", "JavaScript", "Go", "Machine Learning"]
+
+    def greet_in_languages(self):
+        greetings = {
+            "Uzbek": "Assalomu alaykum!"
+            "English": "Hello, World!",
+            "Russian": "Привет, Mир!",
+        }
+        return greetings
+
+    def __str__(self):
+        return f"{self.name} (@{self.username}) - {self.info}"
+
+if __name__ == '__main__':
+    me = ZetmaxProfile()
+    print(me)
+    print("Greetings:", me.greet_in_languages())
 ```
 ---
 ### 🛠️ Tech Stack  
@@ -81,14 +81,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zetmax1&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ### 📫 How to reach me  
 - 📧 **Email:**  
   - zokhidjonyuta@gmail.com 
@@ -97,4 +89,4 @@
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
-![Snake animation](https://github.com/zetmax1/zetmax1/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/zetmax1/zetmax1/output/snake.svg" alt="Snake animation">
