@@ -48,12 +48,12 @@ if __name__ == '__main__':
 
 #### 🚀 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,cpp,go,postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,cpp,go,postgresql,mysql,sqlite,php,laravel" />
 </p>
 
 #### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,pycharm,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,pycharm,phpstorm,vscode,postman" />
 </p>
 
 ---
